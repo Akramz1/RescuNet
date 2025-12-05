@@ -149,11 +149,12 @@ RescuNet/
 
 | Name            | Role                                      |
 |-----------------|-------------------------------------------|
+| [Akram Tarek](https://github.com/Akramz1)     | Text Analysis ML Models                   |
+| [Ahmed Ghazaly](https://github.com/ghazaly118) | Text Analysis ML Models                   |
 | [Youssef Elebiary](https://github.com/YoussefElebiary)| Graph Routing Engine (GNN & C++) & Fullstack Development |
 | [Mohamed Maher](https://github.com/Maherr11)   | Object Detection AI Models                |
 | [Amr Hassan](https://github.com/amr1372003)      | Object Detection AI Models                |
-| [Ahmed Ghazaly](https://github.com/ghazaly118) | Text Analysis ML Models                   |
-| [Akram Tarek](https://github.com/Akramz1)     | Text Analysis ML Models                   |
+
 
 ## License
 
